@@ -1,0 +1,6 @@
+ATM
+Enter PIN > if Correct WelCOME otherwise Wrong PIN
+What Would you like to do
+>Balance Check > return balance
+>Cash Withdrawl > Enter amount > Check if amount is less than balance otherwise show insufficient balance
+                               > update balance
